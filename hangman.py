@@ -1,5 +1,3 @@
-# just an old hangman's game I did in 2023 when i didnt know how to use python classes
-
 import random as rd
 from module import *
 from strings import separator, wlist, strings_dictionary as strings
