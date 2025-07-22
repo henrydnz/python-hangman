@@ -1,8 +1,8 @@
 # Hangman's Game (Jogo da Forca)
 
-*en:* I did this a long time ago, in 2023, when I was learning python and programming basics. I did some changes recently, as functions modularizations.
+*en:* I did this a long time ago, in 2023, when I was learning python and programming basics. I did some changes recently, as functions modularizations and a `strings_dictionary`.
 
-*pt:* Fiz isso há um tempo atrás, em 2023, quando estava aprendendo o básico sobre python e programação. Fiz algumas mudanças recentemente, como a modularização das funções.
+*pt:* Fiz isso há um tempo atrás, em 2023, quando estava aprendendo o básico sobre python e programação. Fiz algumas mudanças recentemente, como a modularização das funções e um dicionário de strings (`strings_dictionary`).
 
 ---
 ### How to play (Como jogar)
