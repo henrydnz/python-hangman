@@ -1,4 +1,6 @@
-from module import boldStr
+# returns bolded string
+def boldStr(string: str | list) -> str: 
+    return f'\033[1m{string}\033[0m'
 
 separator: str = '~~~~~~~~~~~~~~~~\n'
 
